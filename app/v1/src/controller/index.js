@@ -1,0 +1,1 @@
+exports.ChartController = require('./chart')

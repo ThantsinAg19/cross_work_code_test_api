@@ -1,0 +1,2 @@
+exports.ChartModel = require('./chart');
+
